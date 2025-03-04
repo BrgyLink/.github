@@ -117,70 +117,26 @@ Made with ❤️ using **ASP.NET Core** and **Bootstrap 5**.
 
 ## 📸 Screenshots
 
-## Login Page
-## [Desktop]
-![image](https://github.com/user-attachments/assets/3c845123-000a-4c55-8641-169d9e32a768)
-## [Mobile]
-![image](https://github.com/user-attachments/assets/d1ee1fbb-b83c-4e38-b220-7455e57b034c)
+##
+## [Public View]
+![image](https://github.com/user-attachments/assets/7ad96f11-0915-4346-b977-49b29c837d98)
 
-## Landing UI [Desktop]
+![image](https://github.com/user-attachments/assets/d2490f84-e86e-4da8-ac67-1f3a72398066)
 
-![image](https://github.com/user-attachments/assets/affaeecf-3bab-4691-9b5f-ac3276bf7445)
+![image](https://github.com/user-attachments/assets/27d3e772-2d8e-48da-9203-0e82528a30b2)
 
-![image](https://github.com/user-attachments/assets/1db7612b-39fa-4116-b68f-5075c3235bac)
+![image](https://github.com/user-attachments/assets/7680ee7a-d521-477f-8686-35abcf2c615d)
 
-![image](https://github.com/user-attachments/assets/5c973114-200b-4e1c-ae40-9df14731797d)
+![image](https://github.com/user-attachments/assets/5160838d-6c36-4cd7-8625-8136fc074cca)
 
-![image](https://github.com/user-attachments/assets/2882faff-4b39-49ea-8c14-4a30acbf2f59)
+![image](https://github.com/user-attachments/assets/b52c2187-c58b-495f-ad2e-0f5c546e42ce)
 
-## Landing UI [Mobile]
-![image](https://github.com/user-attachments/assets/89e2e1a3-26e5-4c8a-b02a-374a3c2453af)
+![image](https://github.com/user-attachments/assets/7f2999b8-6113-49ce-915d-d19babe61ea1)
 
-![image](https://github.com/user-attachments/assets/4a418517-7c6f-47bf-ac11-5a8c49962cbf)
+![image](https://github.com/user-attachments/assets/29b16db0-71dd-4da5-b15c-fc8c07a4bceb)
 
-![image](https://github.com/user-attachments/assets/5311a61a-dd75-4049-a7c3-df435013f3bb)
-
-![image](https://github.com/user-attachments/assets/4d65b6df-ebc4-4fc9-a410-9545a9c64772)
-
-
-## ADMIN Dashboard DESKTOP & Mobile [Not Final]
-
-**DASHBOARD VIEW DESKTOP**
-![image](https://github.com/user-attachments/assets/bdabdcda-8e77-4547-955a-6dbe72b917a7)
-
-**DASHBOARD VIEW MOBILE**
-![image](https://github.com/user-attachments/assets/87a1d11d-064b-4528-812e-c4f30f2b1f16)
-
-**Manage Resident VIEW DESKTOP**
-![image](https://github.com/user-attachments/assets/9395f8b0-c3c3-413b-a42e-212d7177dafc)
-
-![image](https://github.com/user-attachments/assets/3a2b5d09-5fb8-4d66-b44e-3b69deb286a0)
-
-![image](https://github.com/user-attachments/assets/0d18cfd5-9359-4efc-af22-501a73332206)
-
-![image](https://github.com/user-attachments/assets/70154315-a1a5-4c8c-9b76-f2995c8132be)
-
-![image](https://github.com/user-attachments/assets/63600f10-ddb5-4a15-9518-78fd2006cdb7)
-
-
-**Manage Resident VIEW MOBILE**
-![image](https://github.com/user-attachments/assets/d28e9a34-359a-4110-b556-711eb103a2e3)
-
-![image](https://github.com/user-attachments/assets/276ebe2c-37e6-41bb-90a1-74046ef7532f)
-
-![image](https://github.com/user-attachments/assets/73cfec07-4299-4468-b7d3-c1cf9aaa9f2a)
-
-![image](https://github.com/user-attachments/assets/992d693b-ce04-4930-a8c8-8b60a8d453a5)
-
-![image](https://github.com/user-attachments/assets/1780f41a-c8ad-4196-88f6-99dd17fc3261)
-
-
-
-
-
-
-
-
+##
+## [Admin Dashboard View]
 
 
 
