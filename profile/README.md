@@ -138,6 +138,7 @@ Made with ❤️ using **ASP.NET Core** and **Bootstrap 5**.
 ##
 ## [Admin Dashboard View]
 
+![image](https://github.com/user-attachments/assets/2c64f4b3-b35f-446a-8b07-f9c38276679d)
 
 
 
