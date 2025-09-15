@@ -31,9 +31,6 @@ A **simple** information and service portal designed for barangays, built using 
 ## 🚀 Getting Started
 
 ### Design Preview
-
-**In Progress 2% Done**
-- [Design Figma Preview](https://www.figma.com/design/YlCFxMn6JjdnLNJZDtsBIR/Untitled?node-id=0-1&t=gMvCCkNUz1iYTphq-1)
 - [Base Design](https://colorlib.com/polygon/adminator/) ***CTTO***
   
 **FIGMA UI KIT**
@@ -82,19 +79,6 @@ A **simple** information and service portal designed for barangays, built using 
     ```package manager console
     Update Database
     ```
-
----
-
-## 🤝 Contributing
-
-Contributions are **welcome**! If you'd like to improve this project, follow these steps:
-
-1. **Fork** the project.
-2. Create your **feature branch** (`git checkout -b feature/AmazingFeature`).
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`).
-4. **Push** to the branch (`git push origin feature/AmazingFeature`).
-5. **Open a pull request**.
-
 ---
 
 ## 📝 License
